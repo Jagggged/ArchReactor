@@ -1,5 +1,4 @@
-# ArchReactor
-ArchReactor: An Educational RISC-V Architecture Simulator for Computer Engineering Freshmen
+# ArchReactor: An Educational RISC-V Architecture Simulator for Computer Engineering Freshmen
 
 **ArchReactor** is an educational RISC-V architecture simulation platform  
 designed for computer engineering freshmen.
